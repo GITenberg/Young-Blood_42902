@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/364
     wikipedia: http://en.wikipedia.org/wiki/Ernest_William_Hornung
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42902#Young-Blood
 gutenberg_issued: '2013-06-09'
 gutenberg_type: Text
 identifiers:
